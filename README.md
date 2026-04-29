@@ -1,6 +1,7 @@
-=========================================================
+=============================================
       CRYPTON ADVANCED GUI - CODE EXPLANATION GUIDE      
-=========================================================
+=============================================
+
 This document is designed to help you explain the inner workings
 of the Crypton Advanced GUI project during your presentation.
 
