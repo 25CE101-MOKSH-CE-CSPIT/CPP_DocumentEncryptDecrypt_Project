@@ -1,5 +1,5 @@
 =============================================
-      CRYPTON ADVANCED GUI - CODE EXPLANATION GUIDE      
+                  CRYPTON ADVANCED GUI - CODE EXPLANATION GUIDE      
 =============================================
 
 This document is designed to help you explain the inner workings
